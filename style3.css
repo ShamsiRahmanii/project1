@@ -1,0 +1,412 @@
+@media only screen and (max-width: 768px) {
+    html , body {
+        width: 100%;
+        overflow-x: hidden !important;
+    }
+    .btn-one-t {
+        padding: 1rem;
+    }
+    .two-btns {
+       margin-left: 27rem;
+       display: flex;
+    }
+    .two-btn {
+        margin-bottom: 0.4rem;
+    }
+    .p-one {
+        display: none;
+    }
+    .img-1 {
+        margin: 0 auto;
+        width: 100%;
+    }
+    .pes {
+        display: none;
+    }
+    .span-content {
+        display: none;
+    }
+    .media-p {
+        display: block;
+        font-size: 2rem;
+        margin-left: 17.3rem;
+        margin-top: 0.3rem;
+    }
+    
+    .p-2 {
+        margin-left: 0.4rem;
+        margin-top: -0.35rem;
+        padding-top: 0.6rem;
+        padding-bottom: 0.6rem;
+    }
+    .media {
+        display: block;
+        font-size: 2rem;
+        color: rgb(87, 84, 84);
+        margin-left: 4rem;
+        margin-top: 0.5rem;
+    }
+    .ul {
+        display: none;
+    }
+    .input {
+       display: none;
+    }
+    .first-content {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .white {
+        width: 19rem;
+    }
+    .container-5 {
+        display: flex;
+        flex-direction: column;
+    }
+    .left-5 {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .right-5 {
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+    .box-white {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .box-1 , .box-2 , .box-3 , .box-4 {
+        margin-top: 1rem;
+        margin-left: 0.4rem;
+    }
+    .tree-content {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .content-item , .content-item-2 , .content-item-3 , .content-item-4 {
+        width: 15rem;
+        margin: 0 auto;
+        margin-bottom: 1rem;
+    }
+    .container-8 , .container-9 , .container-10 {
+        display: flex;
+        flex-direction: column;
+    }
+    .left-13  , .img-13 , .right-13 {
+        width: 20rem;
+    }
+    .left-13 {
+        margin-left: 2rem;
+    }
+    .p-13 , .p-13-two {
+        margin: 0.5rem;
+    }
+    .left-8 , .right-8 {
+        margin: 0 auto;
+    }
+
+    .all-5 , .all-6 {
+        margin-left: 1.8rem;
+    }
+    .all-two {
+        margin-left: 2rem;
+    }
+    .white-7 {
+        width: 33rem;
+    }
+    .white-10 , .latest  {
+        width: 40rem;
+        margin: 0 auto;
+        margin-bottom: 2rem;
+    }
+    .white-two-10  {
+        width: 40rem;
+        margin: 0 auto;
+        margin-bottom: 2rem;
+        margin-top: 1rem;
+        padding-top: 0.4rem;
+        padding-bottom: 0.4rem;
+    }
+    .white-5 {
+        width: 25rem;
+        margin: 0 auto;
+        margin-bottom: 2rem;
+    }
+    .icons {
+        margin-left: 10rem;
+    }
+    .include-inputs {
+        margin: 1rem auto;
+    }
+    .tak-img {
+        margin-left: 11rem;
+    }
+    .p-one-1 {
+        margin-bottom: 1rem;
+    }
+    .p-one-3 {
+        margin-top: 1rem;
+    }
+    .Tranding {
+        margin: 1rem auto;
+        width: 25rem;
+    }
+    .five-item {
+        margin: 1rem auto;
+    }
+    .footer {
+        display: flex;
+        flex-direction: column;
+    }
+    .footer-one  {
+        margin: 1rem auto;
+    }
+    .footer-two , .footer-tree {
+        margin-left: 12.5rem;
+    }
+    .footer-two-h {
+        margin-bottom: 1rem;
+    }
+    .content-two {
+        margin-left: 10rem;
+    }
+}
+
+
+@media only screen and (max-width: 576px) {
+        html , body {
+            width: 100%;
+            overflow-x: hidden !important;
+        }
+       .p-two {
+            display: none;
+        }
+        .p-one {
+             display: none;
+        }
+        .btn-one {
+            margin-left: 5rem;
+            margin-right: 10rem;
+        }
+        .two-btns {
+            margin: 0 auto;
+        }
+        .pes {
+            display: none;
+        }
+        .pes-2 {
+            width: 21rem;
+            margin-left: 1rem;
+        }
+        .img-1 {
+            width: 490px;
+        }
+        .ul {
+            display: none;
+        }
+        .input {
+            display: none;
+        }
+        .span-content {
+            display: none;
+        }
+        .content-1 .media{
+             display: block;
+             margin-left: 26rem;
+             margin-top: 0.5rem;
+             font-size: 28px;
+             color: gray;
+        }
+        .first-content {
+            display: flex;
+            flex-direction: column;
+        }
+        .white {
+            margin-left: 2rem;
+        }
+        .container-5 {
+            display: flex;
+            flex-direction: column;
+        }
+        .left-5 {
+            width: 490px;
+            margin-left: -0.5rem;
+        }
+        .box-white {
+            margin-left: 2rem;
+            margin-top: 2rem;
+        }
+        .box-1 {
+            margin-left: 2.5rem;
+        }
+        .box-2 {
+            margin-left: 2.5rem;
+        }
+        .box-3 {
+            margin-left: 2.5rem;
+        }
+        .box-4 {
+            margin-left: 2.5rem;
+        }
+        .tree-content {
+            display: block;
+            margin-left: 6rem;
+            
+        }
+        .content-item {
+            margin-left: 2rem;
+            margin-top: 1rem;
+        }
+        .content-item-2 {
+            margin-left: 2rem;
+            margin-top: 1rem;
+        }
+        .content-item-3 {
+            margin-left: 2rem;
+            margin-top: 1rem;
+        }
+        .content-item-4 {
+            margin-left: 2rem;
+            margin-top: 1rem;
+        }
+        .container-8 {
+            display: flex;
+            flex-direction: column;
+        }
+        .white-7 {
+            margin-left: 1rem;
+        }
+        .all {
+            display: flex;
+            flex-direction: column;
+            margin-left: 8rem;
+        }
+        .two-box-1 {
+            margin-top: 1rem;
+        }
+        .right-8 {
+            display: flex;
+            flex-direction: column;
+        }
+        .container-9 {
+            display: flex;
+            flex-direction: column;
+        }
+        .container-10 {
+            display: flex;
+            flex-direction: column;
+        }
+        .all-2 {
+            display: block;
+            margin-left: 5rem;
+        }
+        .two-box-to2 {
+            margin-top: 1rem;
+        }
+        .all-5 {
+            display: block;
+        }
+        .white-f {
+            margin-left: 5.5rem;
+        }
+        .white-f-two {
+            display: none;
+        }
+         .all-two {
+            display: block;
+            margin-left: 2rem;
+         }
+         .adss {
+            display: none;
+         }
+        .latest{
+            margin-left: 2rem;
+            margin-top: 1rem;
+        }
+        .container-13 {
+            display: flex;
+            flex-direction: column;
+        }
+        .left-13 , .right-13 {
+            margin-top: 1rem;
+            margin-left: 5rem;
+        }
+        .all-two {
+            display: flex;
+            flex-direction: column;
+        }
+         .white-ff {
+            margin-left: 3rem;
+            margin-top: 1rem;
+         }
+         .white-fff {
+            margin-left: 3rem;
+            margin-top: 1rem;
+         }
+         .white-two-10 {
+            margin-left: 5rem;
+            margin-top: 1rem;
+            width: 21rem;
+         }
+         .icons {
+            margin-left: 3rem;
+         }
+         .white-5 {
+            margin-left: 3rem;
+            width: 21rem;
+            padding-top: 0.5rem;
+         }
+         .include-inputs {
+            margin-left: 2.5rem;
+            margin-bottom: 1rem;
+         }
+         .p-one-1 {
+            padding-bottom: 0.7rem;
+         }
+         .p-one-3 {
+            padding-top: 0.7rem;
+         }
+         .tak-img {
+            margin-left: 2.5rem;
+         }
+         .Tranding {
+            margin-left: 2.5rem;
+            width: 21rem;
+            padding-top: 0.5rem;
+            padding-bottom: 0.5rem;
+         }
+         .five-item {
+            margin-left: 2.5rem;
+         }
+         .Tranding {
+            margin-left: 2.5rem;
+            width: 21rem;
+         }
+         .content-two {
+            margin-left: 2.5rem;
+         }
+         .footer {
+            display: flex;
+            flex-direction: column;
+         }
+         .footer-one , .footer-two , .footer-tree {
+            margin-left: 6rem;
+         }
+         .footer-h , .footer-p {
+            margin-bottom: 1rem;
+         }
+         .footer-two-h {
+            margin-bottom: 1rem;
+            margin-top: 2rem;
+         }
+         .content-two {
+            margin-left: -0.5rem;
+         }
+         .last-footer {
+            flex-wrap: wrap;
+            font-size: 13px;
+         }
+        }
+
+        
